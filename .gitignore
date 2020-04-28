@@ -1,2 +1,6 @@
 node_modules/
-.prettierrc
+.cache/
+dist/
+coverage/
+.vscode/
+.env
