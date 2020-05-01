@@ -8,3 +8,10 @@ body {
   width: 100%;
   margin: 0;
 }
+
+@media screen and (min-width: 700px) {
+  
+  #mob {
+    display: none;
+  }
+}
